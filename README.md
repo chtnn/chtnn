@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Chetan Jangid
+- 👀 I’m interested in developing applications using flutter
+- 🌱 I’m currently learning application development using flutter
+- 💞️ I’m looking to collaborate on projects related to app development
+- 📫 Contact info:- Mail- chetanjangidd0101@gmail.com, Phone- 8209966229
+- 😄 Pronouns: He/ Him
